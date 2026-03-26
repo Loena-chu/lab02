@@ -1,0 +1,6 @@
+a=range(1,11,1)
+print(list(a))
+b=range(20,0,-2)
+print(list(b))
+print(ord("A"))
+print(4*sum(((-1)**i/(2*i+1) for i in range(10000000000000))))
